@@ -16,6 +16,6 @@ https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#unescaped-text
 
 ---
 
-기본 프로젝트 환경 셋팅
+### 기본 프로젝트 환경 셋팅
 
 https://jojoldu.tistory.com/255?category=635883
