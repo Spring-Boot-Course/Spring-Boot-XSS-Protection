@@ -26,10 +26,10 @@
         </thead>
         <tbody id="tbody">
         <tr th:each="post : ${posts}">
-            <td th:text="${post.id}"></td>
-            <td th:text="${post.title}"></td>
-            <td th:text="${post.author}"></td>
-            <td th:text="${post.modifiedDate}"></td>
+            <td th:utext="${post.id}"></td>
+            <td th:utext="${post.title}"></td>
+            <td th:utext="${post.author}"></td>
+            <td th:utext="${post.modifiedDate}"></td>
         </tr>
         </tbody>
     </table>

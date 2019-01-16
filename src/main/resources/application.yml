@@ -2,9 +2,3 @@ spring:
   h2:
     console:
       enabled: true
-  thymeleaf:
-    check-template: false
-    prefix: classpath:/templates/
-    suffix: .html
-    encoding: UTF-8
-    cache: false
