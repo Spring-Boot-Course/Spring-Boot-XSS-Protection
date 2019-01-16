@@ -133,11 +133,11 @@ public class WebConfig implements WebMvcConfigurer {
 
 1. 글 작성
 
-![img](imgs/write.png)
+<img src="imgs/write.png" width="200"/>
 
 2. JSON Response 확인
 
-![img](imgs/result.png)
+<img src="imgs/result.png" width="200"/>
 
 > 커스터마이징한 "("가 "&#40;"으로 바뀐 것을 확인 할 수 있다.
 
